@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: src/main/resources/db/migration/V1.1__CreateUsersTable.sql
+  checksum: b4f3fb527cd82400020e470e51529f53737d4750bcdbf13cd7b2d29293b9c5b6
+- filename: src/main/resources/db/migration/V1.2__CreateProductsTable.sql
+  checksum: 6aeaec251746192ed9f814fc7973aa0f43918c885ea5630a84800c542ac8f839
+- filename: src/main/resources/db/migration/V1.3__RenameColumnNameToFullNameInUsers.sql
+  checksum: 4819186de5021ada1dfe51e10f53e1c8677ffec70d410edd68788382a1d7e330
+version: ""
